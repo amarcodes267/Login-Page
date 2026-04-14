@@ -14,13 +14,10 @@ A Simple, clean, and responsive Login & Sign Up web interface built using **HTML
 - CSS3
 - JavaScript
 
-<<<<<<< HEAD
 ## 📸 Preview
 
 ![Login Page Preview](image.png)
 
-=======
->>>>>>> 706fa457e91991477203615bdfff56dee519eb12
 ## 📂 Project Structure
 - index.html
 - style.css
@@ -33,8 +30,6 @@ A Simple, clean, and responsive Login & Sign Up web interface built using **HTML
 
 ---
 
-<<<<<<< HEAD
 Made by Amar Dhingra
-=======
-Made by Amar Dhingra
->>>>>>> 706fa457e91991477203615bdfff56dee519eb12
+
+
